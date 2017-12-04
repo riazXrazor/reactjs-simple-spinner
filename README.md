@@ -1,9 +1,9 @@
-# react-simple-spinner
+# reactjs-simple-spinner
 > A simple, flexible spinner for React.js
 
 > Based on [vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner)
 
-react-simple-spinner is designed to be a lightweight [React.js](https://reactjs.org) spinner requiring minimal configuration.
+reactjs-simple-spinner is designed to be a lightweight [React.js](https://reactjs.org) spinner requiring minimal configuration.
 
 ## JsFiddle Demo
 
@@ -17,7 +17,7 @@ react-simple-spinner is designed to be a lightweight [React.js](https://reactjs.
 ### NPM
 
 ```bash
-npm install react-simple-spinner --save
+npm install reactjs-simple-spinner --save
 ```
 
 ## Usage
@@ -27,13 +27,13 @@ npm install react-simple-spinner --save
 
 ```js
 import React, { Component } from 'react';
-import Spinner from 'react-simple-spinner'
+import Spinner from 'reactjs-simple-spinner'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-         <Spinner message="Loading..." />
+         <Spinner message="Loading..." size="tiny" />
       </div>
     );
   }
@@ -43,7 +43,7 @@ export default App;
 ```
 
 ## License
-react-simple-spinner is open source and released under the [MIT License](LICENSE).
+reactjs-simple-spinner is open source and released under the [MIT License](LICENSE).
 
 Copyright (c) 2017 [Riaz Laskar](https://riazxrazor.in).
 

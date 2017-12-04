@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riazXrazor/react-simple-spinner.git"
+    "url": "git+https://github.com/riazXrazor/reactjs-simple-spinner.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/riazXrazor/react-simple-spinner/issues"
+    "url": "https://github.com/riazXrazor/reactjs-simple-spinner/issues"
   },
-  "homepage": "https://github.com/riazXrazor/react-simple-spinner/",
+  "homepage": "https://github.com/riazXrazor/reactjs-simple-spinner/",
   "dependencies": {
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
