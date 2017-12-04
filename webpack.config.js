@@ -1,9 +1,9 @@
 var path = require('path');
 module.exports = {
-    entry: './src/index.js',
+    entry: './src/react-simple-spinner.js',
     output: {
         path: path.resolve(__dirname, 'build'),
-        filename: 'index.js',
+        filename: 'react-simple-spinner.js',
         libraryTarget: 'commonjs2' // THIS IS THE MOST IMPORTANT LINE! :mindblow: I wasted more than 2 days until realize this was the line most important in all this guide.
     },
     module: {

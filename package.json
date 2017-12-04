@@ -1,14 +1,14 @@
 {
   "name": "react-simple-spinner",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A simple, flexible spinner for React.js",
-  "main": "build/index.js",
+  "main": "build/react-simple-spinner.js",
   "peerDependencies": {
     "react": "^15.5.4"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dzwillia/react-simple-spinner.git"
+    "url": "git+https://github.com/riazXrazor/react-simple-spinner.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dzwillia/react-simple-spinner/issues"
+    "url": "https://github.com/riazXrazor/react-simple-spinner/issues"
   },
-  "homepage": "https://github.com/dzwillia/react-simple-spinner/",
+  "homepage": "https://github.com/riazXrazor/react-simple-spinner/",
   "dependencies": {
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
