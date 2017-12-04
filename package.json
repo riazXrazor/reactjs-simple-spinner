@@ -1,0 +1,50 @@
+{
+  "name": "react-simple-spinner",
+  "version": "0.0.1",
+  "description": "A simple, flexible spinner for React.js",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzwillia/react-simple-spinner.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "ui",
+    "components",
+    "spinner",
+    "progress"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzwillia/react-simple-spinner/issues"
+  },
+  "homepage": "https://github.com/dzwillia/react-simple-spinner/",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "prop-types": "^15.6.0",
+    "react": "^15.5.4",
+    "styled-jsx": "^2.2.1",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Riaz Laskar",
+    "email": "riazcool77@gmail.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}
