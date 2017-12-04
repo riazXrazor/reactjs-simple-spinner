@@ -1,6 +1,6 @@
 {
   "name": "reactjs-simple-spinner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple, flexible spinner for React.js",
   "main": "build/react-simple-spinner.js",
   "peerDependencies": {
