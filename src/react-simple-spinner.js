@@ -159,14 +159,14 @@ class ReactSimpleSpinner extends React.Component {
             msg = <div className="react-simple-spinner-text" style={this.state.text_style} >{this.state.message}</div>
         }
 
-        console.log('msg',this.state.message);
+        //console.log('msg',this.state.message);
 
         return (
             <div>
                 <div className="react-simple-spinner" style={this.state.spinner_style}></div>
                 {msg}
 
-                <style jsx>{`
+                <style jsx={true.toString()}>{`
                   .react-simple-spinner {
                     transition: all 0.3s linear;
                   }

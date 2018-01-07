@@ -18839,7 +18839,7 @@ var ReactSimpleSpinner = function (_React$Component) {
                 );
             }
 
-            console.log('msg', this.state.message);
+            //console.log('msg',this.state.message);
 
             return _react2.default.createElement(
                 'div',
@@ -18851,7 +18851,7 @@ var ReactSimpleSpinner = function (_React$Component) {
                 msg,
                 _react2.default.createElement(
                     'style',
-                    { jsx: true },
+                    { jsx: true.toString() },
                     '\n                  .react-simple-spinner {\n                    transition: all 0.3s linear;\n                  }\n                  @keyframes react-simple-spinner-spin {\n                    0% { transform: rotate(0deg); }\n                    100% { transform: rotate(360deg); }\n                  }\n                '
                 )
             );
