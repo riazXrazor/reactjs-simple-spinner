@@ -5,8 +5,6 @@
 
 reactjs-simple-spinner is designed to be a lightweight [React.js](https://reactjs.org) spinner requiring minimal configuration.
 
-## Demo
-![](https://i.imgur.com/NNoAJCG.gif)
 ## Requirements
 * [React.js](https://reactjs.org/) (^15.5.4)
 
